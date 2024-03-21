@@ -65,4 +65,9 @@ git init
 6. Нажмите кнопку «Create pull request».
 
 13. Книги и полезные ссылки по изучению git.
+
+Книга "ProGit". gb.ru. Лекции Ильнара Шафигуллина)))
+
 14. Альтернативные системы контроля версий.
+
+DVC (Data Version Control), Delta Lake, Pachyderm, Dolt и LakeFS
