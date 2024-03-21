@@ -40,6 +40,16 @@ git branch
 git branch <имя_ветки>
 ```
 
+Слияние двух веток:
+```sh
+git merge <existing_branch_name>
+```
+
+Удаление ветки:
+```sh
+git branch -d <branch_name>
+```
+
 Задать имя пользователя:
 ```sh
 git config --global user.name "Name Surname"
@@ -63,16 +73,6 @@ git show <1ae17f>
 Просмотр изменений коммита:
 ```sh
 git diff
-```
-
-Удаление ветки:
-```sh
-git branch -d <branch_name>
-```
-
-Слияние двух веток:
-```sh
-git merge <existing_branch_name>
 ```
 
 Отправка изменений в удалённый репозиторий:
